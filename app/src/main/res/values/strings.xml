@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cardio Guard</string>
+    <string name="date_st"><b>Date (dd-mm-yy):</b> </string>
+    <string name="time_st"><b>Time (hh:mm):</b> </string>
+    <string name="sys_st"><b>Systolic (mmHg):</b> </string>
+    <string name="dias_st"><b>Diastolic (mmHg):</b> </string>
+    <string name="hrt_st"><b>Heart Rate (bpm):</b> </string>
+    <string name="cmnt_st"><b>Comment:</b></string>
+</resources>
