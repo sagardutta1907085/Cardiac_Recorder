@@ -25,7 +25,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Cardio Guard"
-        android:textColor="#ffffff"
+        android:textColor="@color/white"
         android:textSize="40dp"
         android:textStyle="italic"
         app:layout_constraintBottom_toBottomOf="parent"
