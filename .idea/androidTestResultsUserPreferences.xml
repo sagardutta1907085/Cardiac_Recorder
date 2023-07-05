@@ -9,8 +9,11 @@
               <option name="preferredColumnWidths">
                 <map>
                   <entry key="Duration" value="90" />
+                  <entry key="Lab-01_API_30" value="120" />
+                  <entry key="R28M30RSGZE" value="120" />
                   <entry key="Sagar_s_Phone_API_25" value="120" />
                   <entry key="Tests" value="360" />
+                  <entry key="samsung&#10; SM-A505F" value="120" />
                 </map>
               </option>
             </AndroidTestResultsTableState>

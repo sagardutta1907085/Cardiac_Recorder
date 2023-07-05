@@ -5,7 +5,10 @@ import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
-
+/**
+ * UI_Test
+ * This activity is for Unit Test
+ */
 public class UnitTest {
 
     /**

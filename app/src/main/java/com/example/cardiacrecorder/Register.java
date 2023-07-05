@@ -18,7 +18,10 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseAuthException;
 import com.google.firebase.auth.FirebaseUser;
-
+/**
+ * Register
+ * This activity is for User Registration
+ */
 public class Register extends AppCompatActivity {
 
     TextView t11,t22,t44;
