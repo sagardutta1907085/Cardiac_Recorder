@@ -44,14 +44,16 @@ public class MainActivity extends AppCompatActivity {
         addButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Intent intent=new Intent(MainActivity.this,AddMeasurementActivity.class);
+                startActivity(intent);
             }
         });
 
         viewButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Intent intent=new Intent(MainActivity.this,ViewMeasurementActivity.class);
+                startActivity(intent);
             }
         });
 
