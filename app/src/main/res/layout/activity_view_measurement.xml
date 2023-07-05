@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background"
+    android:background="@drawable/rounded_corner_whitebg"
     tools:context=".ViewMeasurementActivity">
 
     <TextView
@@ -17,9 +17,9 @@
         android:background="@drawable/button_background"
         android:fontFamily="@font/acme_regular"
         android:gravity="center"
-        android:text="Measurements"
+        android:text="History"
         android:textAlignment="center"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:textSize="30sp" />
 
     <ListView
