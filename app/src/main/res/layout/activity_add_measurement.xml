@@ -58,7 +58,8 @@
                 android:ems="10"
                 android:inputType="textPersonName"
                 android:textColor="@color/black"
-                android:textSize="22sp" />
+                android:textSize="22sp"
+                />
 
             <TextView
                 android:id="@+id/textViewTimeId"
@@ -78,7 +79,8 @@
                 android:ems="10"
                 android:inputType="textPersonName"
                 android:textColor="@color/black"
-                android:textSize="22sp" />
+                android:textSize="22sp"
+                />
 
             <TextView
                 android:id="@+id/textViewSysId"
@@ -98,7 +100,8 @@
                 android:ems="10"
                 android:inputType="textPersonName"
                 android:textColor="@color/black"
-                android:textSize="22sp" />
+                android:textSize="22sp"
+                />
 
             <TextView
                 android:id="@+id/textViewDiasId"
@@ -117,7 +120,7 @@
                 android:background="@drawable/rounded_corner_whitebg"
                 android:ems="10"
                 android:inputType="textPersonName"
-                android:textColor="#ffffff"
+                android:textColor="@color/black"
                 android:textSize="22sp" />
 
             <TextView
@@ -137,8 +140,9 @@
                 android:background="@drawable/rounded_corner_whitebg"
                 android:ems="10"
                 android:inputType="textPersonName"
-                android:textColor="#ffffff"
-                android:textSize="22sp" />
+                android:textColor="@color/black"
+                android:textSize="22sp"
+                />
 
             <TextView
                 android:id="@+id/textViewCommentId"
@@ -153,12 +157,13 @@
             <EditText
                 android:id="@+id/editTextCommentId"
                 android:layout_width="match_parent"
-                android:layout_height="60dp"
+                android:layout_height="70dp"
                 android:background="@drawable/rounded_corner_whitebg"
                 android:ems="10"
                 android:inputType="textPersonName"
                 android:textColor="@color/black"
-                android:textSize="22sp" />
+                android:textSize="22sp"
+                />
 
             <Button
                 android:id="@+id/addButtonId"
