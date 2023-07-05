@@ -18,7 +18,10 @@ import androidx.test.ext.junit.rules.ActivityScenarioRule;
 
 import org.junit.Rule;
 import org.junit.Test;
-
+/**
+ * UI_Test
+ * This activity is for UI test
+ */
 public class UiTest {
     /**
      * Rule added
