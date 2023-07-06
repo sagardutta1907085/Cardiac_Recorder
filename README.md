@@ -1,5 +1,5 @@
 # Cardio-Guard
-A project for the software LAB by 1907082 and 1907085.
+Cardio-Guard is a comprehensive health monitoring system that enables users to track and manage their blood pressure and heart rate. With features like user account creation, data visualization, reminders, and integration with wearables, Cardio-Guard empowers individuals to take control of their cardiovascular health.
 
 
 ![mc4](https://github.com/sagardutta1907085/Cardio-Guard/assets/68232532/5cad9334-c9ee-4075-9c85-d7dda6097c0d)
