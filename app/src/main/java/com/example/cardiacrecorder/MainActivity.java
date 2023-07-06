@@ -35,11 +35,11 @@ public class MainActivity extends AppCompatActivity {
         b=(Button) findViewById(R.id.button9);
         auth=FirebaseAuth.getInstance();
         user=auth.getCurrentUser();
-//        if(user==null)
-//        {
-//            Intent addIntent = new Intent(MainActivity.this, LoginPage.class);
-//            startActivity(addIntent);
-//        }
+        if(user==null)
+        {
+            Intent addIntent = new Intent(MainActivity.this, LoginPage.class);
+            startActivity(addIntent);
+        }
 
         addButton.setOnClickListener(new View.OnClickListener() {
             @Override
